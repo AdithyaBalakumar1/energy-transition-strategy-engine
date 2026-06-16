@@ -38,6 +38,19 @@ The Energy Transition Strategy Engine is designed to:
 
 ---
 
+## System Architecture
+Industrial Inputs
+      ↓
+Emission Models
+      ↓
+Transition Strategies
+      ↓
+Techno-Economic Analysis
+      ↓
+Recommendation Engine
+      ↓
+Interactive Dashboard
+
 ## 🏭 Industries Considered
 
 - Cement Plants
@@ -199,3 +212,10 @@ GitHub: https://github.com/AdithyaBalakumar1
 ## 📜 License
 
 This project is released under the MIT License.
+
+## Future Work
+
+- Incorporate life-cycle assessment (LCA) metrics.
+- Integrate reinforcement learning for adaptive strategy optimization.
+- Extend the framework to multiple industrial sectors.
+- Couple with digital twin infrastructures for real-time monitoring.
