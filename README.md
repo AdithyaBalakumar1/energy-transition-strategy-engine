@@ -1,5 +1,7 @@
 # ⚡ Energy Transition Strategy Engine
-
+[![Python](https://img.shields.io/badge/Python-3.13-blue.svg)]()
+[![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-red.svg)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)]()
 An AI-driven decision-support platform for evaluating and optimizing 
 industrial decarbonization pathways through integrated emissions modeling, 
 techno-economic analysis, and intelligent recommendation systems.
